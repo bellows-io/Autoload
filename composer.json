@@ -1,0 +1,8 @@
+{
+	"name"        : "bellows/autoload",
+	"description" : "Provides PSR-0 and PSR-4 Autoloaders",
+	"license"     : "MIT",
+	"autoload": {
+		"psr-4": {"Autoload\\":"src/"}
+	}
+}
